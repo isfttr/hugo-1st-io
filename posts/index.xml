@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Testing website</title>
+    <link>https://isfttr.github.io/hugo-1st-io/posts/</link>
+    <description>Recent content in Posts on Testing website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Aug 2021 23:32:30 -0300</lastBuildDate>
+    
+	<atom:link href="https://isfttr.github.io/hugo-1st-io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://isfttr.github.io/hugo-1st-io/posts/first-post/</link>
+      <pubDate>Sun, 01 Aug 2021 23:32:30 -0300</pubDate>
+      
+      <guid>https://isfttr.github.io/hugo-1st-io/posts/first-post/</guid>
+      <description>This is just the first post of many more to come!
+Hello world </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://isfttr.github.io/hugo-1st-io/posts/first-post/</loc>
+    <lastmod>2021-08-01T23:32:30-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://isfttr.github.io/hugo-1st-io/posts/</loc>
+    <lastmod>2021-08-01T23:32:30-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://isfttr.github.io/hugo-1st-io/</loc>
+    <lastmod>2021-08-01T23:32:30-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://isfttr.github.io/hugo-1st-io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://isfttr.github.io/hugo-1st-io/tags/</loc>
+  </url>
+  
+</urlset>
